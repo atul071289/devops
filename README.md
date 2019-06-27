@@ -6,6 +6,7 @@ Template for Spring 3 MVC + JSP view + XML configuration, using Maven build tool
 ###1. Technologies used
 * Maven 3
 * Spring 3.2.13.RELEASE
+please its work
 *spring is spring
 * JSTL 1.2
 * Logback 1.1.3
