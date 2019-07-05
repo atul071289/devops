@@ -7,7 +7,7 @@ Template for Spring 3 MVC + JSP view + XML configuration, using Maven build tool
 * Maven 3
 * Spring 3.2.13.RELEASE
 please its work
-*spring is spring
+*spring is spring hinbj
 * JSTL 1.2
 * Logback 1.1.3
 hi this is it wo bhhegi
